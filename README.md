@@ -43,5 +43,9 @@ A curated list of up-to-date company blogs and documentations of their machine l
 + [NVIDIA 2022 Talk: Evolution of Web-Scale Engagement Modeling at Pinterest](https://medium.com/pinterest-engineering/nvidia-2022-talk-evolution-of-web-scale-engagement-modeling-at-pinterest-94a967bdcd27) [Apr 2022]
 + [Real-time User Signal Serving for Feature Engineering](https://medium.com/pinterest-engineering/real-time-user-signal-serving-for-feature-engineering-ead9a01e5b) [Dec 2019]
 
+### Cisco
++ [The Architect's Guide to the AIoT - Part 2](https://techblog.cisco.com/blog/architects-guide-to-aiot-2) [Apr 2022]
++ [The Architect's Guide to the AIoT - Part 1](https://techblog.cisco.com/blog/architects-guide-to-aiot-1) [Mar 2022]
+
 ### Monzo
 + [Monzo's machine learning stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack) [Apr 2022]
