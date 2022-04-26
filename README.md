@@ -24,5 +24,17 @@ A curated list of up-to-date company blogs and documentations of their machine l
 + [Massively Large-Scale Distributed Reinforcement Learning with Menger](https://ai.googleblog.com/2020/10/massively-large-scale-distributed.html) [Oct 2020]
 + [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) [Dec 2019]
 
+### Uber
++ [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) [Feb 2022]
++ [Capacity Recommendation Engine: Throughput and Utilization Based Predictive Scaling](https://eng.uber.com/capacity-recommendation-engine/) [Jan 2022]
++ [Inside Uber ATG’s Data Mining Operation: Identifying Real Road Scenarios at Scale for Machine Learning](https://eng.uber.com/uber-atg-data-mining/) [June 2020]
++ [Building a Backtesting Service to Measure Model Performance at Uber-scale](https://eng.uber.com/backtesting-at-scale/) [Feb 2020]
++ [Evolving Michelangelo Model Representation for Flexibility at Scale](https://eng.uber.com/michelangelo-machine-learning-model-representation/) [Oct 2019]
+
+### Airbnb
++ [Intelligent Automation Platform: Empowering Conversational AI and Beyond at Airbnb](https://medium.com/airbnb-engineering/intelligent-automation-platform-empowering-conversational-ai-and-beyond-at-airbnb-869c44833ff2) [Jan 2022]
++ [Task-Oriented Conversational AI in Airbnb Customer Support](https://medium.com/airbnb-engineering/task-oriented-conversational-ai-in-airbnb-customer-support-5ebf49169eaa) [Aug 2021]
++ [Contextualizing Airbnb by Building Knowledge Graph](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a) [Jan 2019]
+
 ### Monzo
 + [Monzo's machine learning stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack) [Apr 2022]
