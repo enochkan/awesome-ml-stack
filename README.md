@@ -36,5 +36,12 @@ A curated list of up-to-date company blogs and documentations of their machine l
 + [Task-Oriented Conversational AI in Airbnb Customer Support](https://medium.com/airbnb-engineering/task-oriented-conversational-ai-in-airbnb-customer-support-5ebf49169eaa) [Aug 2021]
 + [Contextualizing Airbnb by Building Knowledge Graph](https://medium.com/airbnb-engineering/contextualizing-airbnb-by-building-knowledge-graph-b7077e268d5a) [Jan 2019]
 
+### Yelp
++ [Introducing Yelp's Machine Learning Platform](https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html) [Jul 2020]
+
+### Pinterest
++ [NVIDIA 2022 Talk: Evolution of Web-Scale Engagement Modeling at Pinterest](https://medium.com/pinterest-engineering/nvidia-2022-talk-evolution-of-web-scale-engagement-modeling-at-pinterest-94a967bdcd27) [Apr 2022]
++ [Real-time User Signal Serving for Feature Engineering](https://medium.com/pinterest-engineering/real-time-user-signal-serving-for-feature-engineering-ead9a01e5b) [Dec 2019]
+
 ### Monzo
 + [Monzo's machine learning stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack) [Apr 2022]
