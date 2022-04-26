@@ -4,7 +4,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-A curated list of up-to-date company blogs and documentations of their machine learning stacks.
+A curated list of up-to-date company blogs and media of their machine learning stacks.
 
 ### Spotify 
 + [Introducing Natural Language Search for Podcast Episodes](https://engineering.atspotify.com/2022/03/introducing-natural-language-search-for-podcast-episodes/) [Mar 2022]
@@ -23,6 +23,11 @@ A curated list of up-to-date company blogs and documentations of their machine l
 ### Google
 + [Massively Large-Scale Distributed Reinforcement Learning with Menger](https://ai.googleblog.com/2020/10/massively-large-scale-distributed.html) [Oct 2020]
 + [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) [Dec 2019]
+
+### Tesla
++ [AI for Full Self-Driving @ CVPR 2021](https://www.youtube.com/watch?v=g6bOwQdCJrc) [Jun 2021]
++ [Tesla’s Deep Learning at Scale](https://towardsdatascience.com/teslas-deep-learning-at-scale-7eed85b235d3) [May 2019]
++ [Building the Software 2.0 stack @ Spark-AI 2018](https://www.youtube.com/watch?v=y57wwucbXR8) [Aug 2018]
 
 ### Uber
 + [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) [Feb 2022]
