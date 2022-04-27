@@ -35,6 +35,11 @@ Authors](https://machinelearning.apple.com/research/federated-personalization) [
 + [Massively Large-Scale Distributed Reinforcement Learning with Menger](https://ai.googleblog.com/2020/10/massively-large-scale-distributed.html) [Oct 2020]
 + [Fairness Indicators: Scalable Infrastructure for Fair ML Systems](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html) [Dec 2019]
 
+### Amazon
++ [How Prime Video uses machine learning to ensure video quality](https://www.amazon.science/blog/how-prime-video-uses-machine-learning-to-ensure-video-quality) [Mar 2022]
++ [Using machine learning for virtual-machine placement in the cloud
+](https://www.amazon.science/blog/using-machine-learning-for-virtual-machine-placement-in-the-cloud) [Apr 2021]
+
 ### Tesla
 + [AI for Full Self-Driving @ CVPR 2021](https://www.youtube.com/watch?v=g6bOwQdCJrc) [Jun 2021]
 + [Tesla’s Deep Learning at Scale](https://towardsdatascience.com/teslas-deep-learning-at-scale-7eed85b235d3) [May 2019]
@@ -62,6 +67,9 @@ Authors](https://machinelearning.apple.com/research/federated-personalization) [
 ### Cisco
 + [The Architect's Guide to the AIoT - Part 2](https://techblog.cisco.com/blog/architects-guide-to-aiot-2) [Apr 2022]
 + [The Architect's Guide to the AIoT - Part 1](https://techblog.cisco.com/blog/architects-guide-to-aiot-1) [Mar 2022]
+
+### Goldman Sachs
++ [Harnessing the Power of Machine Learning to Improve Data Lake Client Happiness](https://developer.gs.com/blog/posts/harnessing-machine-learning-improve-data-lake-client-happiness) [Dec 2021]
 
 ### Monzo
 + [Monzo's machine learning stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack) [Apr 2022]
