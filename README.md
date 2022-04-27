@@ -19,6 +19,11 @@ A curated list of up-to-date company blogs and media on their machine learning s
 Authors](https://machinelearning.apple.com/research/federated-personalization) [Feb 2022]
 + [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://machinelearning.apple.com/research/overton) [Sep 2019]
 
+### LinkedIn
++ [Open sourcing Feathr – LinkedIn’s feature store for productive machine learning](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m) [Apr 2022]
++ [The journey to build an explainable AI-driven recommendation system to help scale sales efficiency across LinkedIn](https://engineering.linkedin.com/blog/2022/the-journey-to-build-an-explainable-ai-driven-recommendation-sys) [Apr 2022]
++ [Performance-Adaptive Sampling Strategy (PASS) for GNNs: Open sourcing PASS](https://engineering.linkedin.com/blog/2022/open-sourcing-PASS) [Mar 2022]
+
 ### Meta
 + [Inside Meta's AI optimization platform for engineers across the company](https://ai.facebook.com/blog/looper-meta-ai-optimization-platform-for-engineers/) [Apr 2022]
 + [Advances toward ubiquitous neural information retrieval](https://ai.facebook.com/blog/-advances-toward-ubiquitous-neural-information-retrieval/) [Mar 2022]
