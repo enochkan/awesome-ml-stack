@@ -13,6 +13,12 @@ A curated list of up-to-date company blogs and media on their machine learning s
 + [The Rise (and Lessons Learned) of ML Models to Personalize Content on Home (Part II)](https://engineering.atspotify.com/2021/11/the-rise-and-lessons-learned-of-ml-models-to-personalize-content-on-home-part-ii/) [Nov 2021]
 + [The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://engineering.atspotify.com/2019/12/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/) [Dec 2019]
 
+### Apple
++ [Symphony: Composing Interactive Interfaces for Machine Learning](https://machinelearning.apple.com/research/composing-interactive-interfaces) [Feb 2022]
++ [Federated Evaluation and Tuning for On-Device Personalization: System Design & Applications
+Authors](https://machinelearning.apple.com/research/federated-personalization) [Feb 2022]
++ [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://machinelearning.apple.com/research/overton) [Sep 2019]
+
 ### Meta
 + [Inside Meta's AI optimization platform for engineers across the company](https://ai.facebook.com/blog/looper-meta-ai-optimization-platform-for-engineers/) [Apr 2022]
 + [Advances toward ubiquitous neural information retrieval](https://ai.facebook.com/blog/-advances-toward-ubiquitous-neural-information-retrieval/) [Mar 2022]
