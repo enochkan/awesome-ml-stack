@@ -4,7 +4,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-A curated list of up-to-date company blogs and media of their machine learning stacks.
+A curated list of up-to-date company blogs and media on their machine learning stacks.
 
 ### Spotify 
 + [Introducing Natural Language Search for Podcast Episodes](https://engineering.atspotify.com/2022/03/introducing-natural-language-search-for-podcast-episodes/) [Mar 2022]
